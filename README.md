@@ -1,7 +1,7 @@
 # switch-shared-keys
 Keys updated with every HorizonOS update
 
-Title keys won't be uploaded due to each game using its own set of keys and having them be frequently updated. Use yuzu or a ticket extractor to get the keys
+Title keys won't be uploaded due to each game using its own set of keys that have to be frequently updated with new entries. Use yuzu or a ticket extractor to get the keys
 
 Current HOS version: 14.1.12
 
