@@ -1,2 +1,4 @@
 # switch-shared-keys
-Shared decryption keys used for decrypting and running Nintendo Switch games on an emulator. Updated frequently
+Keys updated with every HorizonOS update
+Current HOS version: 
+MD5:
